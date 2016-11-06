@@ -1,6 +1,6 @@
-defmodule FirstElixirTest do
+defmodule KVTest do
   use ExUnit.Case
-  doctest FirstElixir
+  doctest KV
 
   test "the truth" do
     assert 1 + 1 == 2

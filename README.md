@@ -1,4 +1,4 @@
-# FirstElixir
+# KV
 
 **TODO: Add description**
 
@@ -6,19 +6,19 @@
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
-  1. Add `first_elixir` to your list of dependencies in `mix.exs`:
+  1. Add `kv` to your list of dependencies in `mix.exs`:
 
     ```elixir
     def deps do
-      [{:first_elixir, "~> 0.1.0"}]
+      [{:kv, "~> 0.1.0"}]
     end
     ```
 
-  2. Ensure `first_elixir` is started before your application:
+  2. Ensure `kv` is started before your application:
 
     ```elixir
     def application do
-      [applications: [:first_elixir]]
+      [applications: [:kv]]
     end
     ```
 

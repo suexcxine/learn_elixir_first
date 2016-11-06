@@ -1,2 +1,0 @@
-defmodule FirstElixir do
-end
